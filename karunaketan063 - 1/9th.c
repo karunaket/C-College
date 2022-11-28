@@ -19,7 +19,7 @@ int main()
 	
 	printf("The value = %d \n", ++x+y);  // = 1 + x + y = 8
 	
-	printf("The value = %d \n", ++x-y);  // = 1 + x - y = 
+	printf("The value = %d \n", ++x-y);  // = 1 + x - y = 4 but 5.
 		
 	return 0;
 }
