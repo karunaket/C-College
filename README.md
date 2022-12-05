@@ -1,1 +1,1 @@
-# C in college
+# C programming in College
