@@ -1,1 +1,1 @@
-# C-College
+# C in college
