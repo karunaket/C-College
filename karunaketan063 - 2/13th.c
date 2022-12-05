@@ -13,7 +13,7 @@ int main()
 	}
 	else
 	{
-		printf("b  is greater than b.");
+		printf("b  is greater than a.");
 	}
 	return 0;
 }
