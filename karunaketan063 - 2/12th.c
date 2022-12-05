@@ -33,7 +33,13 @@ int main()
 			case 4:
 				printf("\n Enter two integer values:");
 				scanf("%d %d", &a, &b);
-				printf("\n Output : %d", (a/b));
+				// printf("\n Output : %d", (a/b));
+				
+				if(a==1 || b==0)
+				{
+					printf("The output of 1/0 = ..");
+				}
+				
 				break;
 				
 			case 5:
